@@ -56,7 +56,7 @@ Confusion Matrix for random forest
 ![7 Confusion matrix for  the random forest]
 (https://github.com/karanja-john/Group10_Phase4/assets/128204573/c496fbcd-5ef6-4703-b40e-7450d4139eea)
 
-ROC Curve for Random forest
+ROC Curve for Random forest.
 
 
 ![8 ROC  curve for  random forest](https://github.com/karanja-john/Group10_Phase4/assets/128204573/ee4ab796-b96f-4c3a-88d7-768c20b5846f)
