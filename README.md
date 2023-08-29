@@ -7,18 +7,18 @@ Sentiment Classification of Tweets about Apple and Google Products using Natural
 ## Group Members 
 
 Brenda Kinoti, John Karanja, Victor Mawira, Michelle Mwendwa, Loise Mbago, Stephen Gathai
-## Student Pace :Part Time 
+## Student Pace: Part Time 
 ## Overview 
 
-This project employs Natural Language Processing (NLP) techniques to perform sentiment analysis on tweets discussing Apple and Google products. The objective is to categorize tweets into positive, negative, or neutral sentiment categories. Our team, G10 Data Scientists, collaborated to preprocess data, conduct exploratory data analysis, engineer features, build models, and evaluate their performance.
+This project employs Natural Language Processing (NLP) techniques to perform sentiment analysis on tweets discussing Apple and Google products. The objective is categorizing tweets into positive, negative, or neutral sentiment categories. Our team, G10 Data Scientists, collaborated to preprocess data, conduct exploratory data analysis, engineer features, build models, and evaluate their performance.
 ## Business Problem 
 
-In today's social media-driven landscape, understanding public sentiment towards products is pivotal. Twitter, as a prominent platform, offers an avenue to analyze and predict sentiment trends. This project employs NLP to create models classifying sentiments in tweets related to Apple and Google products. Crowd Brands and Products Emotions (CBPE), experts in customer sentiment analysis, sought to categorize sentiments expressed in tweets, as well as associate them with specific brands/products. G10 Data Scientists were engaged to construct a sophisticated sentiment analysis prediction system by developing sophisticated NLP models that accurately predict tweet sentiments, aiding CBPE's comprehension of customer perceptions.
+Understanding public sentiment towards products is pivotal in today's social media-driven landscape. Twitter, as a prominent platform, offers an avenue to analyze and predict sentiment trends. This project employs NLP to create models classifying sentiments in tweets related to Apple and Google products. Crowd Brands and Products Emotions (CBPE), experts in customer sentiment analysis, sought to categorize views expressed in tweets, as well as associate them with specific brands/products. G10 Data Scientists were engaged to construct a sophisticated sentiment analysis prediction system by developing sophisticated NLP models that accurately predict tweet sentiments, aiding CBPE's comprehension of customer perceptions.
 ## Data Understanding 
 
 The dataset contains 9093 tweets collected from various sources. Each tweet is labeled as 'Positive Sentiment,' 'Negative Sentiment,' 'Neutral,' or 'Cannot Tell.' The tweets discuss Apple, Google, and their products/services
 
-(a)Distribution of Brand /products categories 
+(a)Distribution of Brand /product categories 
 
 ![1 Distribution of brand categories](https://github.com/karanja-john/Group10_Phase4/assets/128204573/f76e8354-cffe-4e7f-8f94-d61e097e6b9e)
 
@@ -56,7 +56,7 @@ Confusion Matrix for random forest
 ![7 Confusion matrix for  the random forest]
 (https://github.com/karanja-john/Group10_Phase4/assets/128204573/c496fbcd-5ef6-4703-b40e-7450d4139eea)
 
-ROC Curve for Random forest.
+ROC Curve for Random Forest.
 
 
 ![8 ROC  curve for  random forest](https://github.com/karanja-john/Group10_Phase4/assets/128204573/ee4ab796-b96f-4c3a-88d7-768c20b5846f)
@@ -82,7 +82,7 @@ Observation: The dataset has been cleaned, tokenized, and lemmatized, making it 
  	
      Recommendation: Stakeholders should consider further analyses, like trend analysis over time, topic modeling, or deeper sentiment analysis. This can provide more granular insights into customer preferences, pain points, and areas of opportunity.
 5.	Engagement Strategy:
-Observation: A significant portion of the tweets does not express any emotion towards the brand or product.
+Observation: A significant portion of the tweets do not express any emotion towards the brand or product.
  	
      Recommendation: Companies should devise strategies to engage with this neutral audience segment. By converting a neutral customer to a positive advocate, brands can significantly amplify their reach and influence.
 6.	Continuous Feedback Loop:
@@ -90,7 +90,7 @@ Observation: A significant portion of the tweets does not express any emotion to
  
      Recommendation: Brands should establish a continuous feedback loop. By actively monitoring social media sentiments, brands can be agile, addressing concerns in real-time, and iterating their products based on real customer feedback.
 
-For potential investors, the primary takeaways is   the general positive sentiment around the products and the high levels of brand/product awareness in the market. Investing in these products or in companies producing these products might be a worthwhile consideration given the current positive sentiment
+For potential investors, the primary takeaways are   the general positive sentiment around the products and the high levels of brand/product awareness in the market. Investing in these products or in companies producing these products might be a worthwhile consideration given the current positive sentiment
 
 ##  Future Enhancements
 
